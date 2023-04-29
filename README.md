@@ -1,2 +1,2 @@
-# DS--Capstone-Project
+# DS-Capstone-Project
 Coursera Data Science Capstone Project

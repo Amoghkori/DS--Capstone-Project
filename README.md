@@ -1,4 +1,4 @@
-# Project: Predicting the Success of Falcon 9 Rocket Landings
+# Predicting the Success of Falcon 9 Rocket Landings
 
 ## Description:
 In this project, I utilized data science methodologies to develop predictive algorithms for determining the success of Falcon 9 first-stage landing. By leveraging these algorithms, rocket launch startups can make more informed bidding strategies, leading to improved decision-making in the highly competitive space industry. The project involved extensive data analysis and exploration of historical data to identify patterns and factors contributing to successful landings.
